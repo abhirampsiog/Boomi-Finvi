@@ -1,1 +1,1 @@
-DELETE FROM ${dynamic.document.property['schema_name']}.STG_DIM_ACCOUNT
+DELETE FROM OASIS_RPT_STG_LOAD_PPTenant.STG_DIM_ACCOUNT
